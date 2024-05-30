@@ -24,21 +24,21 @@ export const skills = [
       {
         name: "React Js",
         image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+          "https://www.svgrepo.com/show/452092/react.svg",
       },
       {
         name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        image: "https://www.svgrepo.com/show/452228/html-5.svg",
       },
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg",
+          "https://www.svgrepo.com/show/452185/css-3.svg",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://img.icons8.com/?size=100&id=108784&format=png&color=000000",
       },
       {
         name: "Bootstrap",
@@ -48,7 +48,7 @@ export const skills = [
       {
         name: "Tailwind CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+          "https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000",
       },
       {
         name: "Flutter",
@@ -70,14 +70,14 @@ export const skills = [
           "https://www.svgrepo.com/show/330398/express.svg",
       },
       {
-        name: "SQL Server Management Studio",
+        name: "Microsoft Sql Server",
         image:
-          "https://www.svgrepo.com/show/374093/sql.svg",
+          "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg",
       },
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://www.svgrepo.com/show/331488/mongodb.svg",
       },
       {
         name: "Firebase",
@@ -91,17 +91,17 @@ export const skills = [
       {
         name: "Java",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://www.svgrepo.com/show/452234/java.svg",
       },
       {
         name: "Kotlin",
         image:
-          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+          "https://www.svgrepo.com/show/353980/kotlin.svg",
       },
       {
         name: "Android Studio",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000",
       },
     ],
   },
@@ -116,7 +116,7 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://www.svgrepo.com/show/452210/git.svg",
       },
       {
         name: "VS Code",
@@ -177,7 +177,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fraj1-1.fna.fbcdn.net/v/t39.30808-1/300434269_558443459407649_3341149347748459891_n.png?stp=dst-png_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-GOc1YZb5boQ7kNvgGilYHp&_nc_ht=scontent.fraj1-1.fna&oh=00_AYCQhZo2nbFRHoEVtc7HXGYGRFlGbbEtq0G8fTLDpAPCkA&oe=6653567F",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/300434269_558443459407649_3341149347748459891_n.png?alt=media&token=bf8b000d-f590-4a1f-8ba2-87c6a0689703",
     school: "Modi School, Rajkot",
     date: "2020 - 2021",
     grade: "77.69%",
@@ -186,7 +186,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fraj1-1.fna.fbcdn.net/v/t39.30808-1/302078145_490295826437978_7373990499362775230_n.jpg?stp=dst-jpg_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gKcUemmXfC4Q7kNvgEOUmys&_nc_ht=scontent.fraj1-1.fna&oh=00_AYCJ_MyD9pwcY5gD_P6VigW8h3UV-flzA6lWHwSvdR7dAQ&oe=66539015",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/1556273027_logo.png?alt=media&token=c988e41e-9459-45c5-b807-c51b503e346a",
     school: "K.G. Dholakiya School, Rajkot",
     date: "2018 - 2019",
     grade: "77.50%",
@@ -203,7 +203,7 @@ export const projects = [
     description:
       "Developed an innovative e-commerce platform focused on plant enthusiasts,Engineered a seamless buying and selling experience for plants,Enabled users to navigate effortlessly, fostering a personalized and user-friendly online gardening journey.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/screencapture-localhost-3002-Plant-2024-05-22-18_08_56.png?alt=media&token=3532eb83-50c4-45a5-ab93-a62ff4232d95",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/Home%20Page.png?alt=media&token=f63dafbb-ba14-449a-9dfa-8d17d5f4c8b6",
     tags: [
       "React Js",
       "Node Js",
@@ -217,7 +217,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "ShoeSnap",
+    title: "E-Nursery",
     date: "Jul 2023 - Aug 2023",
     description:
       "Created a premier e-commerce platform dedicated to footwear fans,Designed and implemented a trendy and user-friendly interface.",
@@ -239,6 +239,19 @@ export const projects = [
     tags: ["Figma"],
     category: "ui design",
     github: "https://www.figma.com/design/AoQFee1FIaiosbO54CKGTq/Plant-Ecommerc?m=dev&node-id=0%3A1&t=5W6uirQGneSbxa0u-1",
+    webapp: "https://www.figma.com/design/AoQFee1FIaiosbO54CKGTq/Plant-Ecommerc?m=dev&node-id=0%3A1&t=5W6uirQGneSbxa0u-1",
+  },
+  {
+    id: 3,
+    title: "ToDo List App",
+    date: "May 2024",
+    description:
+      "Manage your tasks efficiently with our easy-to-use to-do list app. Add, edit, and delete tasks with a few taps. Stay organized and boost your productivity!",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/Frame%204.png?alt=media&token=1f090651-03af-4c51-a55f-5a3448b43159",
+    tags: ["Flutter"],
+    category: "android app",
+    github: "https://github.com/Vraj-Raval/Todo-List-Flutter.git",
     webapp: "https://www.figma.com/design/AoQFee1FIaiosbO54CKGTq/Plant-Ecommerc?m=dev&node-id=0%3A1&t=5W6uirQGneSbxa0u-1",
   },
   
