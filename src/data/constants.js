@@ -94,9 +94,9 @@ export const skills = [
           "https://www.svgrepo.com/show/452234/java.svg",
       },
       {
-        name: "Kotlin",
+        name: "Dart",
         image:
-          "https://www.svgrepo.com/show/353980/kotlin.svg",
+          "https://www.svgrepo.com/show/353631/dart.svg",
       },
       {
         name: "Android Studio",
@@ -111,12 +111,12 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/6/62/Git-logo-orange.svg",
+          "https://www.svgrepo.com/show/452210/git.svg",
       },
       {
         name: "GitHub",
         image:
-          "https://www.svgrepo.com/show/452210/git.svg",
+          "https://www.svgrepo.com/show/512317/github-142.svg",
       },
       {
         name: "VS Code",
@@ -132,6 +132,11 @@ export const skills = [
         name: "Figma",
         image:
           "https://www.svgrepo.com/show/452202/figma.svg",
+      },
+      {
+        name: "Pandas",
+        image:
+          "https://www.svgrepo.com/show/473742/pandas.svg",
       },
     ],
   },
@@ -212,8 +217,8 @@ export const projects = [
       "JWT Token",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/Vraj-Raval/Plant-Ecommerce-Frontend",
+    webapp: "https://github.com/Vraj-Raval/Plant-Ecommerce-Backend",
   },
   {
     id: 3,
@@ -225,8 +230,8 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/NWAJDtaovOU-HD.jpg?alt=media&token=5ea41df8-b9c1-43aa-a02b-cd6d8612d049",
     tags: ["Kotlin","MongoDb"],
     category: "android app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/Vraj-Raval/Plant-App",
+    webapp: "https://github.com/Vraj-Raval/Plant-App",
   },
   {
     id: 3,
@@ -252,16 +257,10 @@ export const projects = [
     tags: ["Flutter"],
     category: "android app",
     github: "https://github.com/Vraj-Raval/Todo-List-Flutter.git",
-    webapp: "https://www.figma.com/design/AoQFee1FIaiosbO54CKGTq/Plant-Ecommerc?m=dev&node-id=0%3A1&t=5W6uirQGneSbxa0u-1",
+    webapp: "https://github.com/Vraj-Raval/Todo-List-Flutter.git",
   },
   
   
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+

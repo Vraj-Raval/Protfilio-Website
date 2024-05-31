@@ -8,7 +8,7 @@ import HeroSection from "./components/HeroSection";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
-import Conact from "./components/Contact/index.js";
+import Contact from "./components/Contact/index.js";
 import Footer from "./components/Footer";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
@@ -43,9 +43,10 @@ function App() {
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
-            <Conact/>
+            <Contact/>
           </Wrapper>
           <Footer />
+
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }

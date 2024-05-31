@@ -1,14 +1,14 @@
 import React from "react";
 import "./style.css";
 
-const Conact = () => {
+const Contact = () => {
     return <div class="container">
         <div class="firsttitle">
-            Conact Me
+            Contact Me
         </div>
-        <div class="contact">
+        
         <div className="card">
-            {/* <span className="title">Leave a Comment</span> */}
+            
             <form className="form" method="POST" action="https://formspree.io/f/xayrgyzp">
                 <div className="group">
                     <input placeholder="‎" type="text" required autoComplete="off" />
@@ -32,7 +32,7 @@ const Conact = () => {
                 <button type="submit" value="send">Submit</button>
             </form>
         </div>
-        </div>
+        
     </div>;
 };
-export default Conact;
+export default Contact;
