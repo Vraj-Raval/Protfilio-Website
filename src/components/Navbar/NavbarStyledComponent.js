@@ -86,17 +86,18 @@ export const GitHubButton = styled.a`
   display: flex;
   align-items: center;
   height: 70%;
-  border-radius: 10px;
+  border-radius: 7px;
   color: ${({ theme }) => theme.primary};
   cursor: pointer;
   padding: 0 20px;
   font-weight: 500;
   text-decoration: none;
   font-size: 16px;
-  transition: all 0.6s ease-in-out;
+  transition: all 0.5s ease-in-out;
     :hover {
       background: ${({ theme }) => theme.primary};
-      color: ${({ theme }) => theme.white};     
+      color: ${({ theme }) => theme.white};
+      border-radius: 20px;     
     }
     @media screen and (max-width: 768px) { 
     font-size: 14px;

@@ -195,8 +195,8 @@ padding: 1rem 2rem;
     }    
     
     
-    @media (max-width: 640px) {
-        padding: 12px 0;
+    @media (max-width: 540px) {
+        padding: 12px 5px;
         font-size: 18px;
     } 
 

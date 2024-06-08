@@ -10,7 +10,7 @@ export const Bio = {
     "I am a dynamic professional with a passion for learning and excellence. Eager to embrace new challenges, I deliver high-quality results with a positive attitude and growth mindset. Ready to make impactful contributions and achieve great things.",
   github: "https://github.com/Vraj-Raval",
   resume:
-    "https://drive.google.com/file/d/1Fn9zHMdMnW3e78arJk4vSVZn1EtQ6oDO/view?usp=sharing",
+    "https://drive.google.com/file/d/12hvQqXjDVu3k5tSQoIyKW_eaHpmgAt-f/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vraj-raval-54790b231/",
   twitter: "https://x.com/VrajRaval_",
   insta: "https://www.instagram.com/vrajrvl/",
@@ -162,7 +162,7 @@ export const experiences = [
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/Screenshot%202024-05-26%20122842.png?alt=media&token=d4e9a528-e6c2-4dce-bb66-37b5a4bad4a1",
     role: "Teaching Assistantship in Python",
-    company: "Darshan University",
+    company: "Darshan University Rajkot",
     date: "2023",
     desc: "As a Python Teaching Assistant, I assist with coursework, provide lab guidance, offer one-on-one tutoring, and help students understand and master Python programming.",
     
@@ -176,7 +176,7 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-2baae.appspot.com/o/Screenshot%202024-05-26%20122842.png?alt=media&token=d4e9a528-e6c2-4dce-bb66-37b5a4bad4a1",
     school: "Darshan University, Rajkot",
     date: "2021 - 2025",
-    grade: "7.51 CGPA",
+    grade: "7.53 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Darshan University, Rajkot. I have completed 6 semesters and have a CGPA of 7.51. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Computer Science and Engineering",
   },

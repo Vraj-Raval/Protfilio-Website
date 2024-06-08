@@ -13,6 +13,7 @@ import Footer from "./components/Footer";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
+import Poniter from "./utils/pointer.js"
 import styled from "styled-components";
 
 const Body = styled.div`
@@ -31,8 +32,9 @@ function App() {
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)
   return (
-    
+      
       <Router >
+        <Poniter/>
         <Navbar />
         <Body>
           <HeroSection />
